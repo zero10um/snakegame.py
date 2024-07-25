@@ -116,8 +116,8 @@ O jogo Snake é um jogo clássico onde o jogador controla uma cobra que se move 
 1. **Clone o repositório:**
 
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/zero10um/snakegame.py
+cd snake_game
 Crie um ambiente virtual:
 sh
 Copiar código
